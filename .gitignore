@@ -1,0 +1,7 @@
+*.class
+bin/
+.idea/
+*.xml
+.idea/*.xml
+.DS_Store
+workspace.xml
